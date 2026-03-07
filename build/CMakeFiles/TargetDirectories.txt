@@ -1,0 +1,6 @@
+/home/aitom/ALSE/Ejercicio1_corte2/build/CMakeFiles/parking_system.dir
+/home/aitom/ALSE/Ejercicio1_corte2/build/CMakeFiles/armstrong.dir
+/home/aitom/ALSE/Ejercicio1_corte2/build/CMakeFiles/hamming.dir
+/home/aitom/ALSE/Ejercicio1_corte2/build/CMakeFiles/space_age.dir
+/home/aitom/ALSE/Ejercicio1_corte2/build/CMakeFiles/edit_cache.dir
+/home/aitom/ALSE/Ejercicio1_corte2/build/CMakeFiles/rebuild_cache.dir
